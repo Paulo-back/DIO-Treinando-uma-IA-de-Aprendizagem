@@ -20,7 +20,7 @@
 
 | # | Tipo | Fonte | Por que confio |
 |---|------|-------|----------------|
-| 1 | Artigo/curso | [Busuu](https://www.busuu.com/en/register?learning=en) | [Plataforma conhecida de ensino de idiomas, com cursos organizados por nível] |
+| 1 | Artigo/curso | [Busuu](https://www.busuu.com/en/register?learning=en) | Plataforma conhecida de ensino de idiomas, com cursos organizados por nível |
 | 2 | PDF | [John Jay College (CUNY): Verb Forms](https://resources.jjay.cuny.edu/erc/grammar/verbs/VF_4.pdf) | Material de um centro de apoio ao inglês de uma faculdade americana, criado com financiamento do Departamento de Educação dos EUA; explica o past participle depois de *have* e *be* |
 | 3 | Vídeo YouTube | [QUAL A DIFERENÇA ENTRE PAST SIMPLE x PAST CONTINUOUS](https://www.youtube.com/watch?v=x2Tvj88XTlc) | didática|
 | 4 | Vídeo YouTube | [AUXILIARES, MODAIS VERBAIS EM INGLÊS - AULA 02 PROFESSOR KENNY](https://www.youtube.com/watch?v=h5HHhm-n5LQ) | didática,tema interessante |
@@ -28,7 +28,6 @@
 | 6 | Vídeo YouTube | [MODAL VERBS – O QUE SÃO E COMO USAR?](https://www.youtube.com/watch?v=cjtbK8Ax-q8) | tema importante para estudos |
 | 7 | Site de exercícios | [LearnEnglishFeelGood: Grammar Exercises](https://www.learnenglishfeelgood.com/esl-english-grammar-exercises.html) | Exercícios gratuitos separados por nível (A1 a B2), cada um com uma revisão gramatical; serve para a etapa de prática |
 
-**Critérios que usei para confiar nas fontes:** [por exemplo: origem institucional ou educacional, clareza, exemplos, níveis bem definidos, conteúdo gratuito e aberto]
 
 ---
 
